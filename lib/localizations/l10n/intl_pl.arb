@@ -1,0 +1,30 @@
+{
+  "@@last_modified": "2019-02-11T15:42:37.866653",
+  "dashboardTitle": "Panel główny",
+  "@dashboardTitle": {
+    "description": "Dashboard title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dashboardHello": "Cześć",
+  "@dashboardHello": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dashboardDetails": "Szczegóły",
+  "@dashboardDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailsTitle": "Szczegóły",
+  "@postDetailsTitle": {
+    "description": "Screen title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailsText": "Jakiś tekst",
+  "@postDetailsAuthor": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

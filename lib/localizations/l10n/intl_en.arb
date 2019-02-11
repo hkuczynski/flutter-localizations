@@ -1,0 +1,30 @@
+{
+  "@@last_modified": "2019-02-11T15:42:37.866653",
+  "dashboardTitle": "Dashboard",
+  "@dashboardTitle": {
+    "description": "Dashboard title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dashboardHello": "Hello",
+  "@dashboardHello": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dashboardDetails": "Details",
+  "@dashboardDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailsTitle": "Details",
+  "@postDetailsTitle": {
+    "description": "Screen title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailsText": "Some text",
+  "@postDetailsAuthor": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@@last_modified": "2019-02-11T15:42:37.866653",
+  "dashboardTitle": "Tablero",
+  "@dashboardTitle": {
+    "description": "Dashboard title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dashboardHello": "Hola",
+  "@dashboardHello": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dashboardDetails": "Enviar",
+  "@dashboardDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailsTitle": "Enviar",
+  "@postDetailsTitle": {
+    "description": "Screen title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailsText": "Algún texto",
+  "@postDetailsAuthor": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
